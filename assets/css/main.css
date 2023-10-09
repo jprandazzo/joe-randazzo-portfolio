@@ -1660,3 +1660,9 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+.project-photos {
+	max-width: 20em;
+	max-height: 15em;
+	box-shadow: 0px 0px 5px white;
+}
